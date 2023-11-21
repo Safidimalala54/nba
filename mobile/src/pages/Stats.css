@@ -1,0 +1,25 @@
+.body {
+    background-color: #01579B;
+}
+
+.ion-content .logo {
+    text-align: center;
+}
+
+.ion-content .logo img {
+    height: 135px;
+}
+
+.ion-content .list-teams {
+    padding-top: 35px;
+    background-color: white;
+    height: calc(100% - 4cm);
+    overflow: scroll;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+ion-row {
+    overflow: scroll;
+    margin-bottom: 60px;
+}
