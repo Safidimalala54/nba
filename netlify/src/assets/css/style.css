@@ -1,0 +1,22 @@
+header{
+    /* background-color: #98002e; */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h4{
+    color: #98002e;
+}
+
+body{
+    margin: 50px;
+    background-color: rgb(244, 244, 244);
+}
+
+footer{
+    /* background-color: aquamarine; */
+    clear: both;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
